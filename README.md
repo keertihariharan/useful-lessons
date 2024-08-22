@@ -2,6 +2,28 @@
 These are useful python lessons from the Coursera IBM Data Science Professional Certificate
 
 
+***STRING OPERATIONS***
+
+TABLE OF CONTENTS
+What are Strings?
+Indexing
+Negative Indexing
+Slicing
+Stride
+Concatenate Strings
+Escape Sequences
+String Manipulation Operations
+Quiz on Strings
+
+*Functions:*
+- upper() and lower()
+REGEX
+- import re
+- re.search(pattern, text)
+- re.split
+- findall
+- sub
+
 ***SETS***
 unique collection of objects denoted by {}
 
